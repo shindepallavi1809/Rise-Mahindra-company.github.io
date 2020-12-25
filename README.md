@@ -1,1 +1,1 @@
-# Rise-Mahindra-company.github.io
+# RiseMahindra-company.github.io
