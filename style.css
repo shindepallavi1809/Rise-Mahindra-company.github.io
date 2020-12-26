@@ -3,9 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-/*body{
-    background-color: #d2f5fa;
-}*/
+body{
+    background-color: #fff;
+}
 .menu-bar{
     background-color: #046675;
     text-align: left;
